@@ -1,0 +1,15 @@
+course:{
+    id
+    name
+}
+
+students{
+    id (UUID)
+    firstName
+    lastName
+    email
+    phone
+    password
+    createdAt
+    updatedAt
+}
