@@ -16,3 +16,4 @@ app.listen(config.port, async () => {
   await iniDb();
   console.log(`server running`)
 });
+// thi is student router
